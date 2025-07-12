@@ -323,10 +323,6 @@ footer .footer-menu a {
 }
 
 @media (max-width:786px) {
-
-  header {
-    height: auto;
-  }
   
   header nav img {
     display: block;
